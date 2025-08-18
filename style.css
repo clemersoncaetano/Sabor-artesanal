@@ -7,17 +7,16 @@
 
 body {
     font-family: 'Segoe UI', sans-serif;
-    background-color: #fffaf4;
-    color: #4a2c2a;
+    background-color: blanchedalmond;
+    color: black;
     line-height: 1.6;
 }
 
 
 .header {
-    background-color: #f2d0a9;
+    background-color: #fce6cc;
     padding: 15px 20px;
     display: flex;
-    justify-content: center;
     align-items: center;
     box-shadow: 0 2px 6px rgba(0,0,0,0.1);
 }
@@ -84,7 +83,7 @@ body {
 
 
 .btn {
-    background-color: #d97757;
+    background-color:hotpink;
     color: white;
     padding: 12px 25px;
     text-decoration: none;
@@ -100,14 +99,6 @@ body {
     transform: scale(1.05);
 }
 
-
-.footer {
-    background-color: #f2d0a9;
-    text-align: center;
-    padding: 10px;
-    font-size: 0.9rem;
-    margin-top: 300px;
-}
 
 @media (max-width: 768px) {
     .hero-image {
