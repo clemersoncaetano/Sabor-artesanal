@@ -7,7 +7,7 @@
 
 body {
    
-    background-color: blanchedalmond;
+    background-color: lightpink;
     color: black;
     line-height: 1.6;
     margin: 0;
@@ -16,11 +16,12 @@ body {
 
 
 .header {
-    background-color: #fce6cc;
+    background-color: lightpink;
     padding: 0;
     display: flex;
     align-items: center;
     box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+
    
      height: 25vh;
      font-family: Arial, Helvetica, sans-serif;
@@ -38,7 +39,7 @@ body {
 .logo {
     width: 60px;
     height: 60px;
-    border-radius: 50%;
+    border-radius: 60px;
 }
 
 
