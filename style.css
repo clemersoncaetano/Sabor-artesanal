@@ -11,6 +11,7 @@ body {
     color: black;
     line-height: 1.6;
     margin: 0;
+  
    
 }
 
@@ -111,6 +112,10 @@ body {
 .btn:hover {
     background-color: #b85c3b;
     transform: scale(1.05);
+}
+img{
+    width: 
+    80px;
 }
 
 
