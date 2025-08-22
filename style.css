@@ -16,12 +16,12 @@ body {
 }
 
 
-.header {
+header {
     background-color: lightpink;
-    padding: 0;
+    padding: 10px 20px;
     display: flex;
     align-items: center;
-    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  align-content: space-between;
 
    
      height: 25vh;
@@ -37,12 +37,11 @@ body {
     gap: 10px;
 }
 
-.logo {
+header .logo {
     width: 60px;
     height: 60px;
     border-radius: 60px;
 }
-
 
 
 .site-title {
@@ -96,7 +95,9 @@ body {
     color: #5c3d36;
 }
 
-
+img{
+    width: 40px;
+}
 .btn {
     background-color:hotpink;
     color: white;
@@ -113,10 +114,8 @@ body {
     background-color: #b85c3b;
     transform: scale(1.05);
 }
-img{
-    width: 
-    80px;
-}
+
+
 
 
 @media (max-width: 768px) {
