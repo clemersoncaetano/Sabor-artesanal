@@ -7,7 +7,7 @@
 
 body {
    
-    background-color: lightpink;
+    background-color:bisque;
     color: black;
     line-height: 1.6;
     margin: 0;
@@ -16,7 +16,7 @@ body {
 
 
 header {
-    background-color: lightpink;
+    background-color: bisque;
     padding: 10px 20px;
     display: flex;
     align-items: center;
@@ -24,7 +24,7 @@ header {
      font-family: Arial, Helvetica, sans-serif;
       line-height: 1.6;
       margin: 0;
-    gap:500px;
+ 
 }
 
 .logo-container {
@@ -77,8 +77,8 @@ header .logo {
 
 
 .catalogo {
-    padding: 200px;
     text-align: center;
+    
 }
 
 .catalogo h2 {
@@ -115,7 +115,7 @@ img{
 
 
 
-@media (max-width: 768px) {
+@media (max-width: 908px) {
     .hero-image {
         height: 250px;
     }
