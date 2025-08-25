@@ -7,21 +7,27 @@
 
 body {
    
-    background-color: lightpink;
+    background-color:bisque;
     color: black;
     line-height: 1.6;
     margin: 0;
-  
    
 }
 
 
 header {
-    background-color: lightpink;
+    background-color: bisque;
     padding: 10px 20px;
     display: flex;
     align-items: center;
+  align-content: space-between;
+
    
+     height: 25vh;
+     font-family: Arial, Helvetica, sans-serif;
+      line-height: 1.6;
+      margin: 0;
+      gap: 32px;
 }
 
 .logo-container {
@@ -62,7 +68,7 @@ header .logo {
     position: absolute;
     bottom: 20px;
     left: 20px;
-    background: rgba(0,0,0,0.5);
+    background: rgba(0, 0, 0, 0.5);
     padding: 10px 15px;
     border-radius: 8px;
 }
@@ -74,8 +80,8 @@ header .logo {
 
 
 .catalogo {
-    padding: 200px;
     text-align: center;
+    
 }
 
 .catalogo h2 {
@@ -114,7 +120,8 @@ img{
 
 
 
-@media (max-width: 768px) {
+
+@media (max-width: 908px) {
     .hero-image {
         height: 250px;
     }
