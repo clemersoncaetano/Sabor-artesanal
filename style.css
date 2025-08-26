@@ -71,6 +71,7 @@ header .logo {
     background: rgba(0, 0, 0, 0.5);
     padding: 10px 15px;
     border-radius: 8px;
+ 
 }
 
 .overlay-text h2 {
@@ -81,7 +82,7 @@ header .logo {
 
 .catalogo {
     text-align: center;
-    
+
 }
 
 .catalogo h2 {
@@ -92,10 +93,12 @@ header .logo {
 .catalogo p {
     margin-bottom: 20px;
     color: #5c3d36;
+  
 }
 
 img{
     width: 40px;
+    display: flex;
 }
 .btn {
     background-color:hotpink;
