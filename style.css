@@ -10,7 +10,7 @@ body {
     background-color:bisque;
     color: black;
     line-height: 1.6;
-    margin: 0;
+
    
 }
 
@@ -140,7 +140,7 @@ img{
 
 
 .whatsapp-link{
-  position: fixed;
+  position: relative;
   bottom: 24px;         
   left: 50%;            
   transform: translateX(180px); 
@@ -148,7 +148,7 @@ img{
   height: 56px;
   display: grid;
   place-items: center;
-  background: #25D366;
+  /* background: #25D366; */
   border-radius: 50%;
   box-shadow: 0 8px 20px rgba(0,0,0,.15);
   z-index: 9999;
