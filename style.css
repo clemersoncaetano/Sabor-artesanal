@@ -146,9 +146,9 @@ img{
   transform: translateX(180px); 
   width: 56px;
   height: 56px;
-  display: grid;
+  display: flex;
   place-items: center;
-  /* background: #25D366; */
+  background: bisque; 
   border-radius: 50%;
   box-shadow: 0 8px 20px rgba(0,0,0,.15);
   z-index: 9999;
