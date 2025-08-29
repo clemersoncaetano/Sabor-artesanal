@@ -6,17 +6,11 @@
 
 
 body {
-   
     background-color:bisque;
     color: black;
     line-height: 1.6;
     height: 100vh;
- 
-       
-    display: flex
-;
-    flex-direction: column;
-    justify-content: space-between;
+  
 }
 
    
@@ -31,7 +25,7 @@ header {
   align-content: space-between;
 
    
-     height: 50vh;
+    
      font-family: Arial, Helvetica, sans-serif;
       line-height: 1.6;
       margin: 0;
@@ -90,7 +84,7 @@ header .logo {
 
 .catalogo {
     text-align: center;
-
+    margin: 30px;
 }
 
 .catalogo h2 {
