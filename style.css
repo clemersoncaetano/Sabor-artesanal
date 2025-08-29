@@ -10,7 +10,9 @@ body {
     background-color:bisque;
     color: black;
     line-height: 1.6;
-        height: 50vh;
+    height: 100vh;
+ 
+       
     display: flex
 ;
     flex-direction: column;
@@ -147,7 +149,7 @@ img{
 
 .whatsapp-link{
   position: relative;
-  bottom: 24px;         
+  bottom: 12px;         
   left: 50%;            
   transform: translateX(180px); 
   width: 56px;
@@ -159,7 +161,7 @@ img{
   box-shadow: 0 8px 20px rgba(0,0,0,.15);
   z-index: 9999;
 }
-.whatsapp-link img{ width: 28px; height: 28px; }
+.whatsapp-link img{ width: 28px; height: 28px;}
 
 
 @media (max-width: 768px){
