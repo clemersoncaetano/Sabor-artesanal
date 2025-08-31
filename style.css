@@ -100,9 +100,8 @@ header .logo {
 
 img{
     width: 115px;
-    display: flex;
-    align-content: center;
-  align-items: center;
+ 
+  
 }
 .btn {
     background-color:hotpink;
