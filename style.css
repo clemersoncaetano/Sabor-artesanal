@@ -17,9 +17,9 @@ body {
 
 .container-imagens{
 display: flex;
+align-items: center;
+gap: 5px;
 justify-content: center;
-gap: 15px;
-
 }
 
 
