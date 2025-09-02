@@ -10,11 +10,16 @@ body {
     color: black;
     line-height: 1.6;
     height: 100vh;
+   
+  
   
 }
 
-   
+.container-imagens{
+display: flex;
+justify-content:space-between;
 
+}
 
 
 header {
@@ -100,8 +105,10 @@ header .logo {
 }
 
 img{
-    width:150px;
+    width: 150px;
+
 }
+
 
 
 
@@ -124,9 +131,7 @@ img{
 
     
 
-body div{
-  
-}
+
 
 
 
