@@ -64,6 +64,7 @@ header .logo {
     width: 100px;
     height: 400px;
     object-fit: cover;
+   
 }
 
 .overlay-text {
@@ -99,10 +100,11 @@ header .logo {
 }
 
 img{
-    width: 115px;
- 
-  
+    width:150px;
 }
+
+
+
 .btn {
     background-color:hotpink;
     color: white;
@@ -120,9 +122,13 @@ img{
     transform: scale(1.05);
 }
 
+    
 
-
-
+body div{
+    display: flex;
+    justify-content: center;
+    gap: 12px;
+}
 
 
 
