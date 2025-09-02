@@ -17,7 +17,7 @@ body {
 
 .container-imagens{
 display: flex;
-justify-content:space-between;
+justify-content:space-around;
 
 }
 
