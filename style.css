@@ -110,7 +110,10 @@ img{
 
 }
 
-
+.imagem{
+    display: flex;
+    justify-content: center;
+}
 
 
 .btn {
